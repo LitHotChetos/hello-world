@@ -1,5 +1,4 @@
 # hello-world
 first repository
-Whats up peeps
 
-The names LitHotChetos and I like chetos
+Whats up plebs? The name's LitHotChetos and I like chetos.
